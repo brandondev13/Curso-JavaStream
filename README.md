@@ -1,2 +1,2 @@
 # Curso-JavaStream
-Aprendiendo sobre la API Stream-
+Aprendiendo sobre la API Stream
